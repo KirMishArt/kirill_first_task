@@ -1,0 +1,25 @@
+<html>
+<body>
+<div>
+    <div class="0">
+        <div>0. ssh root connection</div>
+        <img src="./img/0.png", width="300" height="200">
+    </div>
+    <div class="1">
+        <div>1.ping for 2 sites</div>
+        <img src="./img/1.png", width="300" height="200">
+    </div>
+    <div class="1">
+        <div>2. ip's and domen adresses for sites</div>
+        <img src="./img/2.png", width="300" height="200">
+        <img src="./img/2.1.png", width="300" height="200">
+        <img src="./img/2.2.png", width="300" height="200">
+
+    </div>
+    <div class="1">
+        <div>3.whois for kubsu and kubsu-dev</div>
+        <img src="./img/3.png" width="400" height="200">
+    </div>
+</div>
+</body>
+</html>
